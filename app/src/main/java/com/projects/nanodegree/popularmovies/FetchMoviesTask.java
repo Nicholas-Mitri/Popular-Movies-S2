@@ -24,7 +24,7 @@ import java.util.Vector;
 public class FetchMoviesTask extends AsyncTask<Void, Void, Void> {
 
     private final String LOG_TAG = FetchMoviesTask.class.getSimpleName();
-    private static final String API_KEY = "de202981a99b1c7b9105af167a0f76ee";
+    private static final String API_KEY = "";
     private static final String BASE_MOV_URL = "http://api.themoviedb.org/3/discover/movie";
     private static final String BASE_EXTRAS_URL = "http://api.themoviedb.org/3/movie";
 
