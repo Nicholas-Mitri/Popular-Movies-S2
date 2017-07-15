@@ -24,6 +24,7 @@ $ git://github.com/Nicholas-Mitri/Popular-Movies-S2.git
 
 3- Build and run the project in the Android device or emulator.
 
+Note: Make sure to add the API key from https://www.themoviedb.org/ to Build.gradle before compiling the project. Make sure you 
 
 
 
